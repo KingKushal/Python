@@ -1,4 +1,4 @@
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 
 x1 = [10,20,30,40,50,60,70,80]
 y1 = [72,60,50,45,40,30,20,15]
