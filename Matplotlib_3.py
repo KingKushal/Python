@@ -6,8 +6,8 @@ y1 = [0,1,2,3,4,5]
 plt.plot(x1,y1,label = 'literacy rate')
 
 
-y2 = [0,2,4,6,8,10]
-x2 = [10,8,6,4,2,0]
+y2 = [10,8,6,4,2,0]
+x2 = [0,2,4,6,8,10]
 
 plt.plot(x2,y2,label = 'Financial rate')
 
